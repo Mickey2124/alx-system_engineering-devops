@@ -1,2 +1,3 @@
 #!/bin/bash
-chown -R vincent:staff .
+chwon -R vincent:staff .
+
